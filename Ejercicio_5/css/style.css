@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+
+
+.contenedor_fondos1 div,
+.contenedor_fondos2 div,
+.contenedor_fondos3 div{
+    padding: 10px 0px;
+    text-align: left;
+    float: left;
+    width: 16.66%;
+    overflow: hidden;
+}
+/*==========FONDOS=========*/
+.black{
+    background-color: black;
+}
+
+.teal {
+    background-color: teal;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.navy {
+    background-color: navy;
+}
